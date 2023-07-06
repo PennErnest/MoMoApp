@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652794188 source:d:\c projects\momoapp\app\main.cpp
+	<iostream>
+	<string>
+
